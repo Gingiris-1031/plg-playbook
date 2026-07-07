@@ -48,6 +48,6 @@
 - **契約拡張**: チームで入り、成功事例を通じて組織全体に拡大
 
 ## 関連Gingirisスキル
-- フルバージョン: https://clawhub.ai/skill/gingiris-b2b-growth
-- 全スキル一覧: https://clawhub.ai/user/gingiris
+- フルバージョン: https://clawhub.ai/gingiris-1031/skills/gingiris-b2b-growth
+- 全スキル一覧: https://clawhub.ai/gingiris-1031
 - フォロー: [@WeiYipei on X](https://x.com/WeiYipei)

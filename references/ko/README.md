@@ -48,6 +48,6 @@
 - **계약 확장**: 팀으로 진입하여 성공 사례를 통해 조직 전체로 확대
 
 ## 관련 Gingiris 스킬
-- 전체 버전: https://clawhub.ai/skill/gingiris-b2b-growth
-- 모든 스킬: https://clawhub.ai/user/gingiris
+- 전체 버전: https://clawhub.ai/gingiris-1031/skills/gingiris-b2b-growth
+- 모든 스킬: https://clawhub.ai/gingiris-1031
 - 팔로우: [@WeiYipei on X](https://x.com/WeiYipei)
